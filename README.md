@@ -10,7 +10,7 @@
   -> 좀비 아포칼립스 시대에 군인 2인이 협동하여 좀비를 제거하면서 살아남아 마을을 탈출하는 테마
 
 ### 시연 영상
-[![Video Label](http://img.youtube.com/vi/CoXYucQHY7w/0.jpg)](https://youtu.be/CoXYucQHY7w)
+[Video Label][(https://youtu.be/CoXYucQHY7w)](https://www.youtube.com/watch?v=94CTeKgyHMQ&t=140s)
 
 ### 전체 프로젝트 파일
 https://drive.google.com/file/d/1GFF42tbk0Wz56Zh43tDkk3f0c6cvoDOr/view?usp=sharing
