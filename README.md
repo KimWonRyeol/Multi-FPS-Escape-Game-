@@ -50,6 +50,6 @@ https://drive.google.com/file/d/1bOlyGEH6oY8DcYtoO_3VcoS2NDO0YJov/view?usp=shari
 - 무기: Unity Asset Store, ”Low Poly Weapons VOL.1“, https://assetstore.unity.com/packages/3d/props/guns/low-poly-weapons-vol-1-151980
 - 기름: Unity Asset Store, ”Oil Cans“, https://assetstore.unity.com/packages/3d/props/oil-cans-841
 
-### 해당 오픈소스의 버전
+### 유니티 버전
 2021.3.10f1
 
